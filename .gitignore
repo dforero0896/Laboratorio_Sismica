@@ -45,3 +45,14 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+Taller1/convz.m
+*.aux
+Taller1/Informe_Taller_1.bbl
+*.blg
+Taller1/Informe_Taller_1.log
+*.gz
+Taller1/Informe_Taller_1Notes.bib
+Taller1/segypy.py
+Taller1/Uniandes_2016-I_GEOC3049_TALLER1.pdf
+Taller1/segypy.pyc
+Taller1/WriteSegy.m
