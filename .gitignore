@@ -56,3 +56,6 @@ Taller1/segypy.py
 Taller1/Uniandes_2016-I_GEOC3049_TALLER1.pdf
 Taller1/segypy.pyc
 Taller1/WriteSegy.m
+*.bbl
+Taller2/Informe_Taller_2.log
+*.gz(busy)
